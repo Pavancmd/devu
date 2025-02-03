@@ -1,2 +1,2 @@
-# devu
+# Devu
 Hello, I am Pavan Patil
